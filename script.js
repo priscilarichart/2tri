@@ -6,7 +6,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Qual é a forma de arte que voce mais aprecia?",
+        enunciado: "Qual é a forma de arte que você mais aprecia?",
         alternativas: [
             {
                 texto: "Musica",
@@ -23,7 +23,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Qual o tipo de colinaria você prefere?",
+        enunciado: "Qual o tipo de culinária você prefere?",
         alternativas: [
             {
                 texto: "Italiana",
@@ -74,14 +74,14 @@ const perguntas = [
         enunciado: "Qual o estilo de dança você gostaria de aprender ? ",
         alternativas: [
             {
-                texto: "samba .",
+                texto: "Samba .",
                 afirmacao: "Infelizmente passou a utilizar a IA para fazer todas suas tarefas e agora se sente dependente da IA para tudo."
             },{
-                texto: "tango.",
+                texto: "Tango.",
                 afirmacao: "Infelizmente passou a utilizar a IA para fazer todas suas tarefas e agora se sente dependente da IA para tudo."
             },
             {
-                texto: "ballet.",
+                texto: "Ballet.",
                 afirmacao: "Percebeu que toda IA reproduz orientações baseadas na empresa que programou e muito do que o chat escrevia não refletia o que pensava e por isso sabe que os textos gerados pela IA devem servir como auxílio e não resultado final. "
             }
         ]
