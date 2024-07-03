@@ -86,6 +86,85 @@ const perguntas = [
             }
         ]
     },
+    {
+        enunciado: "Qual dessses eventos gostaria de participar? ",
+        alternativas: [
+            {
+                texto: "Carnaval do Rio De Janeiro .",
+                afirmacao: "Infelizmente passou a utilizar a IA para fazer todas suas tarefas e agora se sente dependente da IA para tudo."
+            },{
+                texto: "Dia Dos Mortos no Mexico.",
+                afirmacao: "Infelizmente passou a utilizar a IA para fazer todas suas tarefas e agora se sente dependente da IA para tudo."
+            },
+            {
+                texto:"Festival de Lanternas na Tailandia.",
+                afirmacao: "Percebeu que toda IA reproduz orientações baseadas na empresa que programou e muito do que o chat escrevia não refletia o que pensava e por isso sabe que os textos gerados pela IA devem servir como auxílio e não resultado final. "
+            }
+        ]
+    },
+    {
+        enunciado: "Qual voce acredita ser o maior desafio da preservacao das linguas indigenas? ",
+        alternativas: [
+        {
+                texto: "Falta de recursos.",
+                afirmacao: "Infelizmente passou a utilizar a IA para fazer todas suas tarefas e agora se sente dependente da IA para tudo."
+            },{
+                texto: "Urbanizacao .",
+                afirmacao: "Infelizmente passou a utilizar a IA para fazer todas suas tarefas e agora se sente dependente da IA para tudo."
+            },
+            {
+                texto:"Globalizacao.",
+                afirmacao: "Percebeu que toda IA reproduz orientações baseadas na empresa que programou e muito do que o chat escrevia não refletia o que pensava e por isso sabe que os textos gerados pela IA devem servir como auxílio e não resultado final. "
+            }
+        ]
+    }, {
+        enunciado: "Qual é o papel mais importantes dos museus na sociedade atual? ",
+        alternativas: [
+        {
+                texto: "Educação.",
+                afirmacao: "Infelizmente passou a utilizar a IA para fazer todas suas tarefas e agora se sente dependente da IA para tudo."
+            },{
+                texto: "Preservação do patrimônio .",
+                afirmacao: "Infelizmente passou a utilizar a IA para fazer todas suas tarefas e agora se sente dependente da IA para tudo."
+            },
+            {
+                texto:"Entretenimento.",
+                afirmacao: "Percebeu que toda IA reproduz orientações baseadas na empresa que programou e muito do que o chat escrevia não refletia o que pensava e por isso sabe que os textos gerados pela IA devem servir como auxílio e não resultado final. "
+            }
+        ]
+    },
+    {
+        enunciado: "Qual tradição cultural você considera mais importante? ",
+        alternativas: [
+        {
+                texto: "Festival de música.",
+                afirmacao: "Infelizmente passou a utilizar a IA para fazer todas suas tarefas e agora se sente dependente da IA para tudo."
+            },{
+                texto: "Cerimônias religiosas .",
+                afirmacao: "Infelizmente passou a utilizar a IA para fazer todas suas tarefas e agora se sente dependente da IA para tudo."
+            },
+            {
+                texto:"Desfiles tradicionais.",
+                afirmacao: "Percebeu que toda IA reproduz orientações baseadas na empresa que programou e muito do que o chat escrevia não refletia o que pensava e por isso sabe que os textos gerados pela IA devem servir como auxílio e não resultado final. "
+            }
+        ]
+    },
+    {
+        enunciado: "Qual é a sua atividade cultural favorita em seu tempo livre? ",
+        alternativas: [
+        {
+                texto: "Visitar museus.",
+                afirmacao: "Infelizmente passou a utilizar a IA para fazer todas suas tarefas e agora se sente dependente da IA para tudo."
+            },{
+                texto: "Assistir a shows .",
+                afirmacao: "Infelizmente passou a utilizar a IA para fazer todas suas tarefas e agora se sente dependente da IA para tudo."
+            },
+            {
+                texto:"Ler livros.",
+                afirmacao: "Percebeu que toda IA reproduz orientações baseadas na empresa que programou e muito do que o chat escrevia não refletia o que pensava e por isso sabe que os textos gerados pela IA devem servir como auxílio e não resultado final. "
+            }
+        ]
+    },
 ];
 
 
