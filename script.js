@@ -10,15 +10,15 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Musica",
-                afirmacao: "No início ficou com medo do que essa tecnologia pode fazer. "
+                afirmacao: "A música é uma arte que une pessoas e expressa sentimentos através de melodias e harmonias. . "
             },
             {
                 texto: "Literatura",
-                afirmacao: "No início ficou com medo do que essa tecnologia pode fazer. "
+                afirmacao: "A literatura é uma arte que explora ideias e evoca emoções através das palavras.. "
             },
             {
                 texto: "dança",
-                afirmacao: "Quis saber como usar IA no seu dia a dia."
+                afirmacao: "A dança é uma arte que expressa emoções e histórias através do movimento do corpo."
             }
         ]
     },
@@ -27,14 +27,14 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Italiana",
-                afirmacao: "Conseguiu utilizar a IA para buscar informações úteis."
+                afirmacao:" A culinária italiana é celebrada por sua simplicidade elegante, ingredientes frescos e o uso habilidoso de ervas e azeites, criando pratos que encantam o paladar."
             }, {
                 texto: "Brasileira",
-                afirmacao: "Conseguiu utilizar a IA para buscar informações úteis."
+                afirmacao: "A culinária brasileira é uma fusão vibrante de sabores, influências regionais e ingredientes tropicais, refletindo a diversidade cultural do país.."
             },
             {
                 texto: "Japonesa",
-                afirmacao: "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho."
+                afirmacao: " A culinária japonesa é conhecida por sua delicadeza, frescor e pela habilidade em destacar os sabores naturais dos ingredientes."
             }
         ]
     },
@@ -43,14 +43,17 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Sertanejo",
-                afirmacao: "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA."
-            }, {
+                afirmacao: "O sertanejo é um gênero musical que reflete a vida e as tradições do campo. "
+            },
+            
+            
+            {
                 texto: "Rock",
-                afirmacao: "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA."
+                afirmacao: "c)O rock é um gênero musical que se destaca por sua energia vibrante, guitarras poderosas e letras muitas vezes rebeldes e introspectivas."
             },
             {
                 texto: "Funk.",
-                afirmacao: "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética."
+             afirmacao: "O funk é um gênero musical caracterizado por ritmos contagiantes e batidas marcantes."
             }
         ]
     },
@@ -59,14 +62,16 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Vestuário ",
-                afirmacao: "Notou também que muitas pessoas não sabem ainda utilizar as ferramentas tradicionais e decidiu compartilhar seus conhecimentos de design utilizando ferramentas de pintura digital para iniciantes."
-            },{
-                texto: "Celebrações ",
-                afirmacao: "Notou também que muitas pessoas não sabem ainda utilizar as ferramentas tradicionais e decidiu compartilhar seus conhecimentos de design utilizando ferramentas de pintura digital para iniciantes."
+                afirmacao: "O vestuário reflete tradições, identidades e modos de expressão cultural únicos. "
             },
+            
             {
+                texto: "Celebrações ",
+                afirmacao: "As celebrações unem comunidades, transmitindo tradições, valores e sentimentos compartilhados por meio de rituais e festividades.",
+            },
                 texto: "Artesanato",
-                afirmacao: "Acelerou o processo de criação de trabalhos utilizando geradores de imagem e agora consegue ensinar pessoas que sentem dificuldades em desenhar manualmente como utilizar também!"
+                afirmacao: "O artesanato valoriza habilidades tradicionais, materiais locais 
+                e técnicas ancestrais, preservando a identidade e a história de uma comunidade."
             }
         ]
     },
@@ -75,14 +80,14 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Samba .",
-                afirmacao: "Infelizmente passou a utilizar a IA para fazer todas suas tarefas e agora se sente dependente da IA para tudo."
+                afirmacao: "O samba é um estilo de dança brasileiro conhecido por sua energia vibrante, movimentos rápidos e pela celebração alegre da cultura e música do Brasil."
             },{
                 texto: "Tango.",
-                afirmacao: "Infelizmente passou a utilizar a IA para fazer todas suas tarefas e agora se sente dependente da IA para tudo."
-            },
+              
+          afirmacao: " O tango é uma dança que entrelaça paixão e precisão em cada passo, capturando a alma em movimento."
             {
                 texto: "Ballet.",
-                afirmacao: "Percebeu que toda IA reproduz orientações baseadas na empresa que programou e muito do que o chat escrevia não refletia o que pensava e por isso sabe que os textos gerados pela IA devem servir como auxílio e não resultado final. "
+                afirmacao: "O balé é um estilo de dança caracterizado pela elegância, técnica refinada e expressão artística que combina movimentos graciosos e música clássica. "
             }
         ]
     },
