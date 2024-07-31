@@ -69,9 +69,9 @@ const perguntas = [
                 texto: "Celebrações ",
                 afirmacao: "As celebrações unem comunidades, transmitindo tradições, valores e sentimentos compartilhados por meio de rituais e festividades.",
             },
+            {
                 texto: "Artesanato",
-                afirmacao: "O artesanato valoriza habilidades tradicionais, materiais locais 
-                e técnicas ancestrais, preservando a identidade e a história de uma comunidade."
+                afirmacao: "O artesanato valoriza habilidades tradicionais, materiais locais e técnicas ancestrais, preservando a identidade e a história de uma comunidade."
             }
         ]
     },
@@ -81,10 +81,12 @@ const perguntas = [
             {
                 texto: "Samba .",
                 afirmacao: "O samba é um estilo de dança brasileiro conhecido por sua energia vibrante, movimentos rápidos e pela celebração alegre da cultura e música do Brasil."
-            },{
+            },
+            {
                 texto: "Tango.",
               
           afirmacao: " O tango é uma dança que entrelaça paixão e precisão em cada passo, capturando a alma em movimento."
+            },
             {
                 texto: "Ballet.",
                 afirmacao: "O balé é um estilo de dança caracterizado pela elegância, técnica refinada e expressão artística que combina movimentos graciosos e música clássica. "
