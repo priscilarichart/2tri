@@ -98,30 +98,30 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Carnaval do Rio De Janeiro .",
-                afirmacao: "Infelizmente passou a utilizar a IA para fazer todas suas tarefas e agora se sente dependente da IA para tudo."
+                afirmacao: "Carnaval do Rio de Janeiro é um espetáculo de cores, ritmos e celebração que contagia todos os corações com sua energia vibrante e sua mistura única de música, dança e cultura brasileira."
             },{
                 texto: "Dia Dos Mortos no Mexico.",
-                afirmacao: "Infelizmente passou a utilizar a IA para fazer todas suas tarefas e agora se sente dependente da IA para tudo."
+                afirmacao: "No Dia dos Mortos no México, celebra-se a vida dos entes queridos que já partiram, com festividades coloridas e rituais cheios de significado."
             },
             {
                 texto:"Festival de Lanternas na Tailandia.",
-                afirmacao: "Percebeu que toda IA reproduz orientações baseadas na empresa que programou e muito do que o chat escrevia não refletia o que pensava e por isso sabe que os textos gerados pela IA devem servir como auxílio e não resultado final. "
+                afirmacao: "O festival de lanternas na Tailândia ilumina o céu noturno com cores vibrantes, simbolizando desejos de boa sorte e renovação espiritual. "
             }
         ]
     },
     {
-        enunciado: "Qual voce acredita ser o maior desafio da preservacao das linguas indigenas? ",
+        enunciado: "Qual voce acredita ser o maior desafio da preservacão das linguas indigenas? ",
         alternativas: [
         {
                 texto: "Falta de recursos.",
-                afirmacao: "Infelizmente passou a utilizar a IA para fazer todas suas tarefas e agora se sente dependente da IA para tudo."
+                afirmacao: "A falta de recursos refere-se à insuficiência de meios financeiros, materiais ou humanos necessários para realizar determinadas atividades ou alcançar objetivos específicos."
             },{
                 texto: "Urbanizacao .",
-                afirmacao: "Infelizmente passou a utilizar a IA para fazer todas suas tarefas e agora se sente dependente da IA para tudo."
+                afirmacao: "Urbanização é o processo pelo qual áreas rurais são transformadas em centros urbanos, caracterizado pelo crescimento de população, infraestrutura urbana e desenvolvimento econômico."
             },
             {
                 texto:"Globalizacao.",
-                afirmacao: "Percebeu que toda IA reproduz orientações baseadas na empresa que programou e muito do que o chat escrevia não refletia o que pensava e por isso sabe que os textos gerados pela IA devem servir como auxílio e não resultado final. "
+                afirmacao: " A globalização promove a disseminação de línguas majoritárias e culturas dominantes, frequentemente em detrimento das línguas indígenas, que acabam sendo menos valorizadas e menos transmitidas."
             }
         ]
     }, {
@@ -129,46 +129,31 @@ const perguntas = [
         alternativas: [
         {
                 texto: "Educação.",
-                afirmacao: "Infelizmente passou a utilizar a IA para fazer todas suas tarefas e agora se sente dependente da IA para tudo."
+                afirmacao: "1. Os museus são centros de aprendizado onde visitantes de todas as idades podem adquirir conhecimentos sobre história, arte, ciência e cultura. Eles oferecem exposições educativas, programas para escolas e atividades interativas que promovem a curiosidade e a compreensão."
             },{
                 texto: "Preservação do patrimônio .",
-                afirmacao: "Infelizmente passou a utilizar a IA para fazer todas suas tarefas e agora se sente dependente da IA para tudo."
+                afirmacao: "Preservar e proteger objetos e artefatos históricos é crucial para manter a memória cultural e a identidade de uma sociedade. Os museus cuidam de coleções que documentam a história e a cultura, garantindo que futuras gerações possam aprender com o passado. "
             },
             {
                 texto:"Entretenimento.",
-                afirmacao: "Percebeu que toda IA reproduz orientações baseadas na empresa que programou e muito do que o chat escrevia não refletia o que pensava e por isso sabe que os textos gerados pela IA devem servir como auxílio e não resultado final. "
+                afirmacao: " 3. Os museus também são locais de entretenimento e lazer. Exposições interativas, eventos especiais e atividades culturais atraem visitantes e proporcionam experiências enriquecedoras que podem ser tanto educativas quanto divertidas."
             }
         ]
     },
-    {
-        enunciado: "Qual tradição cultural você considera mais importante? ",
-        alternativas: [
-        {
-                texto: "Festival de música.",
-                afirmacao: "Infelizmente passou a utilizar a IA para fazer todas suas tarefas e agora se sente dependente da IA para tudo."
-            },{
-                texto: "Cerimônias religiosas .",
-                afirmacao: "Infelizmente passou a utilizar a IA para fazer todas suas tarefas e agora se sente dependente da IA para tudo."
-            },
-            {
-                texto:"Desfiles tradicionais.",
-                afirmacao: "Percebeu que toda IA reproduz orientações baseadas na empresa que programou e muito do que o chat escrevia não refletia o que pensava e por isso sabe que os textos gerados pela IA devem servir como auxílio e não resultado final. "
-            }
-        ]
-    },
+    
     {
         enunciado: "Qual é a sua atividade cultural favorita em seu tempo livre? ",
         alternativas: [
         {
                 texto: "Visitar museus.",
-                afirmacao: "Infelizmente passou a utilizar a IA para fazer todas suas tarefas e agora se sente dependente da IA para tudo."
+                afirmacao:"Visitar museus oferece aprendizado sobre arte, história e ciência, além de proporcionar uma experiência educativa e inspiradora para todas as idades. "
             },{
                 texto: "Assistir a shows .",
-                afirmacao: "Infelizmente passou a utilizar a IA para fazer todas suas tarefas e agora se sente dependente da IA para tudo."
+                afirmacao: "Assistir a shows oferece entretenimento ao vivo, conecta o público com artistas e cria memórias duradouras, promovendo cultura e arte. "
             },
             {
                 texto:"Ler livros.",
-                afirmacao: "Percebeu que toda IA reproduz orientações baseadas na empresa que programou e muito do que o chat escrevia não refletia o que pensava e por isso sabe que os textos gerados pela IA devem servir como auxílio e não resultado final. "
+                afirmacao: " Ler livros amplia o conhecimento, estimula a imaginação, e melhora habilidades cognitivas e linguísticas. Além disso, proporciona entretenimento e desenvolvimento pessoal. "
             }
         ]
     },
